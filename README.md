@@ -1,6 +1,6 @@
-# flutter_demo
+# flutter_tutorial
+  This is just a copy of the code in a tutorial im taking to learn flutter ui
 
-A new Flutter project.
 
 ## Getting Started
 
